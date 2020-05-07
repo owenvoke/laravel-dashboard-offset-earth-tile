@@ -2,7 +2,6 @@
 
 namespace OwenVoke\OffsetEarthTile;
 
-use Carbon\CarbonInterval;
 use Livewire\Component;
 
 class OffsetEarthTileComponent extends Component
