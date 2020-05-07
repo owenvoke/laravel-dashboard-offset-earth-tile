@@ -10,6 +10,8 @@
 
 A tile for Laravel Dashboard that displays statistics from Offset Earth
 
+![Screenshot of tile](./docs/screenshot.png)
+
 ## Install
 
 Via Composer
