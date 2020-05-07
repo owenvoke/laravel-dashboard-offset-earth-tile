@@ -1,0 +1,38 @@
+{
+    "name": "owenvoke/laravel-dashboard-offset-earth-tile",
+    "type": "library",
+    "description": "A tile for Laravel Dashboard that displays statistics from Offset Earth",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "spatie/laravel-dashboard": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OwenVoke\\OffsetEarthTile\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "OwenVoke\\OffsetEarthTile\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OwenVoke\\OffsetEarthTile\\OffsetEarthTileServiceProvider"
+            ]
+        }
+    }
+}
