@@ -6,7 +6,7 @@
         <div
             class="flex items-center justify-center"
         >
-            <h1 class="text-3xl leading-none -mt-1">Offset Earth</h1>
+            <h1 class="text-3xl leading-none -mt-1">Ecologi</h1>
         </div>
 
         <div class="grid gap-padding" style="height: calc(100% - 13px);">
