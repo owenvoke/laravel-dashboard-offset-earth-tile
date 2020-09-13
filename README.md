@@ -1,4 +1,4 @@
-# Offset Earth Tile
+# Ecologi Tile
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -8,7 +8,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Buy us a tree][ico-treeware-gifting]][link-treeware-gifting]
 
-A tile for Laravel Dashboard that displays statistics from Offset Earth
+A tile for Laravel Dashboard that displays statistics from Ecologi
 
 ![Screenshot of tile](./docs/screenshot.png)
 
@@ -107,6 +107,6 @@ Read more about Treeware at [treeware.earth][link-treeware].
 [link-code-coverage]: https://codecov.io/gh/owenvoke/laravel-dashboard-offset-earth-tile
 [link-downloads]: https://packagist.org/packages/owenvoke/laravel-dashboard-offset-earth-tile
 [link-treeware]: https://treeware.earth
-[link-treeware-gifting]: https://offset.earth/owenvoke?gift-trees
+[link-treeware-gifting]: https://ecologi.com/owenvoke?gift-trees
 [link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
