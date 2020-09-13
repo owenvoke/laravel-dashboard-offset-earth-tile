@@ -8,6 +8,6 @@ class OffsetEarth
 {
     public static function getUserImpact(string $username): array
     {
-        return Http::get("https://public.offset.earth/users/{$username}/impact")->json();
+        return Http::get("https://public.ecologi.com/users/{$username}/impact")->json();
     }
 }
