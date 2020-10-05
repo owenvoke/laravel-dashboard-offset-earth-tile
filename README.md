@@ -43,7 +43,7 @@ In `app\Console\Kernel.php` you should schedule the `OwenVoke\OffsetEarthTile\Co
 
 protected function schedule(Schedule $schedule)
 {
-    $schedule->command(OwenVoke\OffsetEarthTile\Commands\FetchOffsetEarthStatisticsCommand::class)->everyThirtyMinutes();
+    $schedule->command(\OwenVoke\OffsetEarthTile\Commands\FetchOffsetEarthStatisticsCommand::class)->everyThirtyMinutes();
 }
 ```
 
